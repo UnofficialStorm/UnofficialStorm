@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @UnofficialStorm
+- 
 - 👀 I’m interested in astrophysics
+- 
 - 🌱 I’m currently learning python and C#
+- 
 -I’m down to collaborate 
 -How to reach me?
 
